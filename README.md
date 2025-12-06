@@ -50,6 +50,8 @@ This project provides insight to support pricing, merchandising, assortment plan
 
 ## Dashboard
 
+![Dashboard Preview](Images/dashboard_preview.png)
+
 The Looker Studio dashboard presents:
 
 - Key aggregated metrics
