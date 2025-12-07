@@ -9,9 +9,9 @@ The objective is to identify frequently purchased product combinations, quantify
 ## Project Structure
 
 📁 Data/         → Input files used for analysis  
+📁 Images/       → Dashboard Preview, Icons for Dashboard
 📁 Notebook/     → Python notebook with preparation, feature engineering and EDA  
-📁 Images/       → Dashboard Preview, Icons for Dashboard 
-
+📁 Report/       → PDF report for stakeholders / portfolio
 📄 LICENSE       → MIT License  
 📄 README.md     → Project documentation
 
