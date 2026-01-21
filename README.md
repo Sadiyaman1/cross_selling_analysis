@@ -34,7 +34,7 @@ This project provides insight to support pricing, merchandising, assortment plan
 
 ## Key Features
 
-- Data cleaning and transformation (SQL + Python)
+- Data cleaning and transformation (SQL)
 - Metric development including:
   - transaction count
   - sales and profit attribution
@@ -83,7 +83,7 @@ File: `ECommerce_Dataprep_EDA.ipynb`
 
 ## Technologies Used
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python
 - SQL / BigQuery
 - Looker Studio
 
